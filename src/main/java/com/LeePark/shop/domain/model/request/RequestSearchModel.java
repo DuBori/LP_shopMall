@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
-public class RequsetSearchModel {
+public class RequestSearchModel {
 
     private String id;
 
